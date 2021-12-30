@@ -4,6 +4,7 @@ setup VScode dev environment to work with ESP-8266
 
 - install VScode plugin [PlaformIO IDE](https://docs.platformio.org/en/latest//integration/ide/vscode.html#quick-start) `platformio.platformio-ide`
 
+   (this will add `$HOME/.platformio`)
 - step by step tutorial https://www.electronicshub.org/programming-esp8266-using-vs-code-and-platformio/
 
 
